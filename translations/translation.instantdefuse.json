@@ -1,0 +1,18 @@
+{
+    "warning.hethreat" :
+    {
+        "en": "{RED}Instant Defuse not possible because a he grenade threat is active!{DEFAULT}"
+    },
+    "warning.molotovthreat" :
+    {
+        "en": "{RED}Instant Defuse not possible because a molotov grenade threat is active!{DEFAULT}"
+    },
+    "info.teammatehasdefkit":
+    {
+        "en": "Bomb can not be defused in time but another {DARKBLUE}Counter-Terrorist{DEFAULT} player has a {BLUEGREY}Defuse-Kit{DEFAULT}!"
+    },
+    "info.defusesuccess":{
+        "en": "Instant Defuse was {GREEN}successful{DEFAULT}!"
+
+    }    
+}

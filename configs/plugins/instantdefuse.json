@@ -1,0 +1,9 @@
+{
+    "Debug" : true,
+    "Prefix": "[{PURPLE}InstantDefuse{DEFAULT}]",
+    "HEThreatCheck": true,
+    "MolotovThreatCheck": true,
+    "AliveTerroristCheck": true,
+    "AdditionalKitCheck": true
+
+}
