@@ -1,4 +1,4 @@
-# InstantDefuse 1.0.0  
+# InstantDefuse  
   
 Implementation of a Instant Defuse plugin for CS2 using [Swiftly](https://swiftlycs2.net/)
   
