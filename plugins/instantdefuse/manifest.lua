@@ -11,5 +11,5 @@ function GetPluginName()
 end
 
 function GetPluginWebsite()
-    return "https://github.com/m3ntorinho/swiftly-instantdefuse"
+    return "https://github.com/m3ntorinho/instantdefuse"
 end
